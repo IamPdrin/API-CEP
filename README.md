@@ -29,6 +29,11 @@ As principais técnicas que fizeram parte desse projeto foram: `JPA Hibernate`, 
 
 - https://viacep.com.br
 
+# Integrantes
+
+- Pedro Henrique Bomfim Wolski
+- Luiz Felipe Fernandes de Mello
+
 
 
 
